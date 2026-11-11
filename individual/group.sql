@@ -46,7 +46,7 @@ CREATE TABLE `account` (
 --
 
 INSERT INTO `account` (`username`, `password`, `User_type`, `Email`, `FirstName`, `LastName`, `Gender`, `Birthdate`, `Address`, `PhoneNumber`, `Picture`) VALUES
-('1234', '1234', 'User', 'jiachin@gmail.com', 'Jia kae', 'Lai', 'Female', '2003-09-25', 'No1, Jalan Hope', '0174825750', ''),
+('1234', '1234', 'User', 'demo.user@example.com', 'Demo', 'User', 'Female', '2000-01-01', '1, Jalan Contoh', '0120000000', ''),
 ('admin', 'admin', 'Admin', NULL, NULL, NULL, NULL, NULL, NULL, NULL, '');
 
 -- --------------------------------------------------------
